@@ -1,0 +1,17 @@
+﻿{
+  "name": "势点五子棋 · 公平规则",
+  "short_name": "势点五子棋",
+  "description": "一个通过积累「势点」来平衡先手优势的五子棋游戏",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#e8d5b5",
+  "theme_color": "#2f4f4c",
+  "icons": [
+    {
+      "src": "nina.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
